@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Wallet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ferramentas</string>
+
+    <string name="title_activity_login">Bem-vindo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Logar-se</string>
+    <string name="action_sign_in_short">Logar</string>
+    <string name="error_invalid_email">Este email é inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">A Senha está incorreta</string>
+    <string name="error_field_required">Este campo é requirido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_adicionar_carteira">Nova carteira</string>
+    <string name="title_activity_adicionar_compra">AdicionarCompra</string>
+</resources>

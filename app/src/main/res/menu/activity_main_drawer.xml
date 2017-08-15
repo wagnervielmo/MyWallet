@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_import_ofx"
+            android:icon="@mipmap/ic_settings_black_48dp"
+            android:title="Importar OFX" />
+        <item
+            android:id="@+id/nav_add_conta"
+            android:icon="@mipmap/ic_add_circle_outline_black_48dp"
+            android:title="Adicionar conta" />
+        <item
+            android:id="@+id/nav_categoria"
+            android:icon="@mipmap/ic_group_work_black_48dp"
+            android:title="Categoria" />
+        <item
+            android:id="@+id/nav_ferramentas"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ferramentas" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
